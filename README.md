@@ -1,4 +1,4 @@
-Project Title: AI-Driven Customer Segmentation Based on Purchase Patterns
+Project Title: K-means clustering algorithm to group customers of a retail store based on their purchase history
 
 Goals:
 
